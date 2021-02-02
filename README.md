@@ -1,7 +1,9 @@
 # IoT_for_Masjids
 This is a test structure for the sound level control for mosques.
-The structure consists of:
-###3 nodes, 2 of them are identical and connected as follows:
+## The structure consists of:
+### 3 nodes, 2 of them are identical and connected as follows:
+
+![Circuit for the system connections](testsytemconnection.png)
 
 A spectrum analyzer VU meter running a 40kHz FFT on an ESP32 and outputting to a 16 x 16 FastLED matrix. The code is heavily modified from [this example](https://github.com/G6EJD/ESP32-8266-Audio-Spectrum-Display/blob/master/ESP32_Spectrum_Display_02.ino) originally written by G6EJD who has a very useful [YouTube channel](https://www.youtube.com/user/G6EJD/videos), so check him out.
 ## Demo
