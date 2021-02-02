@@ -7,7 +7,7 @@ This is a test structure for the sound level control for mosques.
 
 On each one of them [the code](https://github.com/DrNaeemOdat/IoT_for_Masjids/blob/main/IoT_Node/IoT_Node.ino) is installed by comment out the approprite lines in the file.
 
-The third node is the monitor node which is only an ESP32 dev board. The code installed on it is [monitor node](https://github.com/DrNaeemOdat/IoT_for_Masjids/monitor_node.ino)
+The third node is the monitor node which is only an ESP32 dev board. The code installed on it is [monitor node](https://github.com/DrNaeemOdat/IoT_for_Masjids/blob/main/Monitor_Node/Monitor_Node.ino)
 
 ### Mosquitto broker:
 
